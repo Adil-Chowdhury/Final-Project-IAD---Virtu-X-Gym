@@ -93,12 +93,4 @@ I am most proud of how this project represents the culmination of three years of
 
 The most significant challenge was managing the project's demanding scope against a strict, unchangeable deadline while simultaneously juggling deliverables for other modules. This required extreme discipline, time management, and resilience. Staying awake through long nights to refine drawings and improve renders became a necessity. Overcoming this pressure taught me how to work efficiently, prioritize tasks effectively, and maintain a high standard of quality even when faced with significant constraints—a crucial skill for the fast-paced professional world.
 
----
 
-### Contact
-
-Thank you for viewing my project. I am actively seeking full-time opportunities as an **Interior Designer** or **3D Visualizer**. I am confident that my skills in conceptual design, technical drawing, and high-quality rendering would make me a valuable asset to your team.
-
-*   **LinkedIn:** `[Your LinkedIn Profile URL here]`
-*   **Portfolio:** `[Link to your online portfolio or Behance]`
-*   **Email:** adilchowdhury2002@gmail.com

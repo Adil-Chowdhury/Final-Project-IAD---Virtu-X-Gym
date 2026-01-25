@@ -1,6 +1,6 @@
 # Final-Project-IAD---Virtu-X-Gym
 
-# VIRTU GYM: A Futuristic Interior Architecture & Design Project
+# VIRTU X' GYM: A Futuristic Interior Architecture & Design Project
 
 ### BA (Hons) Interior Architecture & Design Final Project
 
@@ -10,7 +10,7 @@
 
 ### Introduction
 
-VIRTU GYM is a comprehensive final-year project that redefines the modern fitness experience by merging advanced technology with wellness. It envisions a futuristic, immersive environment where users can escape the constraints of the real world. This repository contains the complete project submission, showcasing a strong capability in conceptual design, spatial planning, 3D visualisation, and detailed technical documentation.
+VIRTU 'X' GYM is a comprehensive final-year project that redefines the modern fitness experience by merging advanced technology with wellness. It envisions a futuristic, immersive environment where users can escape the constraints of the real world. This repository contains the complete project submission, showcasing a strong capability in conceptual design, spatial planning, 3D visualisation, and detailed technical documentation.
 
 ---
 
@@ -35,7 +35,7 @@ The core task was to select an existing building and introduce a new function, d
 
 ### Design Concept: Parallel Universe
 
-The core concept of VIRTU GYM is the **"Parallel Universe."** It acts as a gateway to alternate realities, transforming the act of working out into an engaging and inclusive journey. The design uses distinct zones to transport users to futuristic landscapes—from distant planets to entirely new digital worlds—redefining fitness through technology and immersive design.
+The core concept of VIRTU 'X' GYM is the **"Parallel Universe."** It acts as a gateway to alternate realities, transforming the act of working out into an engaging and inclusive journey. The design uses distinct zones to transport users to futuristic landscapes—from distant planets to entirely new digital worlds—redefining fitness through technology and immersive design.
 
 Inspirations were drawn from the sleek, high-tech aesthetics of films like **Tron** and **Iron Man**, influencing the use of neon lighting, clean forms, and a technology-focused colour palette to create a motivating, futuristic atmosphere.
 

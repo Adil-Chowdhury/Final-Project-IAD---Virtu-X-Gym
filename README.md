@@ -22,7 +22,6 @@ VIRTU GYM is a comprehensive final-year project that redefines the modern fitnes
 *   [Technical Showcase](#technical-showcase)
 *   [Tools and Technologies](#tools-and-technologies)
 *   [Project Highlights & Challenges](#project-highlights--challenges)
-*   [Contact](#contact)
 
 ---
 

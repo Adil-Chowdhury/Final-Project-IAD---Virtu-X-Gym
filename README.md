@@ -10,10 +10,7 @@
 
 ### Introduction
 
-VIRTU GYM is a comprehensive final-year project that redefines the modern fitness experience by merging advanced technology with wellness. It envisions a futuristic, immersive environment where users can escape the constraints of the real world. This repository contains the complete project submission, showcasing a strong capability in conceptual design, spatial planning, 3D visualization, and detailed technical documentation.
-
-![VIRTU GYM Interior Render](https://i.imgur.com/39D3C08.jpeg)
-*One of the key renders showcasing the 'Virtual Gym' space.*
+VIRTU GYM is a comprehensive final-year project that redefines the modern fitness experience by merging advanced technology with wellness. It envisions a futuristic, immersive environment where users can escape the constraints of the real world. This repository contains the complete project submission, showcasing a strong capability in conceptual design, spatial planning, 3D visualisation, and detailed technical documentation.
 
 ---
 
@@ -41,18 +38,15 @@ The core task was to select an existing building and introduce a new function, d
 
 The core concept of VIRTU GYM is the **"Parallel Universe."** It acts as a gateway to alternate realities, transforming the act of working out into an engaging and inclusive journey. The design uses distinct zones to transport users to futuristic landscapes—from distant planets to entirely new digital worlds—redefining fitness through technology and immersive design.
 
-Inspirations were drawn from the sleek, high-tech aesthetics of films like **Tron** and **Iron Man**, influencing the use of neon lighting, clean forms, and a technology-focused color palette to create a motivating, futuristic atmosphere.
-
-![VIRTU GYM Presentation Board](https://i.imgur.com/rM724bV.jpeg)
-*Project presentation board summarizing the design statement, concept, and aesthetics.*
+Inspirations were drawn from the sleek, high-tech aesthetics of films like **Tron** and **Iron Man**, influencing the use of neon lighting, clean forms, and a technology-focused colour palette to create a motivating, futuristic atmosphere.
 
 ---
 
 ### Key Features
 
 *   **Immersive VR & AR Integration:** Smart zones are strategically designed to seamlessly integrate virtual and augmented reality workouts.
-*   **Futuristic & Sleek Aesthetics:** The design employs clean lines, bold forms, and a technology-themed color palette (#00122d, #032557, #336ab9) to create a high-tech, motivating atmosphere.
-*   **Dynamic Lighting:** Neon and LED lighting are used not just for illumination but as a core design element to guide users, define spaces, and energize the environment.
+*   **Futuristic & Sleek Aesthetics:** The design employs clean lines, bold forms, and a technology-themed colour palette (#00122d, #032557, #336ab9) to create a high-tech, motivating atmosphere.
+*   **Dynamic Lighting:** Neon and LED lighting are used not just for illumination but as a core design element to guide users, define spaces, and energise the environment.
 *   **Bespoke Design Elements:** Custom-designed features, such as the geometric feature walls and dynamic workout platforms, reinforce the unique "Parallel Universe" theme.
 
 ---
@@ -73,7 +67,7 @@ This project is supported by a comprehensive set of technical drawings, demonstr
 
 ### Tools and Technologies
 
-A complete suite of industry-standard software was used to bring this project to life, demonstrating proficiency across the entire design pipeline from 2D drafting to final 3D visualization.
+A complete suite of industry-standard software was used to bring this project to life, demonstrating proficiency across the entire design pipeline from 2D drafting to final 3D visualisation.
 
 *   **2D Technical Drafting:** AutoCAD
 *   **3D Modeling:** SketchUp
@@ -87,10 +81,10 @@ A complete suite of industry-standard software was used to bring this project to
 
 #### What I'm Most Proud Of
 
-I am most proud of how this project represents the culmination of three years of learning and feedback. It is a direct reflection of my growth as a designer. I made a conscious effort to analyze my past work, learn from critiques, and integrate every piece of constructive feedback—from improving my annotations and technical drawings to strengthening my conceptual narrative. This project stands as a testament to my ability to apply learned knowledge and continuously improve my craft.
+I am most proud of how this project represents the culmination of three years of learning and feedback. It is a direct reflection of my growth as a designer. I made a conscious effort to analyse my past work, learn from critiques, and integrate every piece of constructive feedback—from improving my annotations and technical drawings to strengthening my conceptual narrative. This project stands as a testament to my ability to apply learned knowledge and continuously improve my craft.
 
 #### My Biggest Challenge
 
-The most significant challenge was managing the project's demanding scope against a strict, unchangeable deadline while simultaneously juggling deliverables for other modules. This required extreme discipline, time management, and resilience. Staying awake through long nights to refine drawings and improve renders became a necessity. Overcoming this pressure taught me how to work efficiently, prioritize tasks effectively, and maintain a high standard of quality even when faced with significant constraints—a crucial skill for the fast-paced professional world.
+The most significant challenge was managing the project's demanding scope against a strict, unchangeable deadline while simultaneously juggling deliverables for other modules. This required extreme discipline, time management, and resilience. Staying awake through long nights to refine drawings and improve renders became a necessity. Overcoming this pressure taught me how to work efficiently, prioritise tasks effectively, and maintain a high standard of quality even when faced with significant constraints—a crucial skill for the fast-paced professional world.
 
 

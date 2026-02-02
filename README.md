@@ -1,5 +1,3 @@
-# Final-Project-IAD---Virtu-X-Gym
-
 # VIRTU X' GYM: A Futuristic Interior Architecture & Design Project
 
 ### BA (Hons) Interior Architecture & Design Final Project
